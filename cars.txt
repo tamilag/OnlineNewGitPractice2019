@@ -3,3 +3,6 @@ BMW 3
 BMW X6
 Audi
 Tesla
+Lexus
+Kia
+Subaru
