@@ -2,3 +2,6 @@ orange
 mango
 dragon Fruit
 watermelon
+kiwi
+grape
+apple
